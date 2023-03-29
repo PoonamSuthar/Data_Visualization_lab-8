@@ -21,3 +21,9 @@ A histogram is a graphical representation of the distribution of numerical data.
     4)User can change the point size and shape for different species in the scatter plot
     
 ![image](https://user-images.githubusercontent.com/118159315/228447536-98ba8a95-c56b-44e4-9aa8-3d10d1993860.png)
+
+3.Violin or Box plot for separate species in a single plot
+    1)Add Pan and Zoom to each diagram.
+    2)Add resizing of diagram
+![image](https://user-images.githubusercontent.com/118159315/228458514-03c0ffac-296c-47b7-bb9d-6830cb4251a2.png)
+![image](https://user-images.githubusercontent.com/118159315/228462521-7036aa7d-315e-4936-a23f-58a7f3ee1c24.png)
