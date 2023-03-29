@@ -6,4 +6,8 @@ A histogram is a graphical representation of the distribution of numerical data.
 
 1.Histograms of all the properties
 
-  1)User can change the bin size of all the histogram separately. 
+    1)User can change the bin size of all the histogram separately. 
+    2)User can change colors of each histogram separately.
+    ![image](https://user-images.githubusercontent.com/118159315/228437923-cb6a28ef-bc09-4bd6-b1d3-b57efae698fe.png)
+
+    
