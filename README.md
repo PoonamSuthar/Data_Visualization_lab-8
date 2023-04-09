@@ -23,6 +23,7 @@ A histogram is a graphical representation of the distribution of numerical data.
 
 
 3.Violin or Box plot for separate species in a single plot
+
     1)Add Pan and Zoom to each diagram.
     2)Add resizing of diagram
 ![](https://github.com/PoonamSuthar/Data_Visualization_lab-8/blob/main/GIF_Violin.gif)
