@@ -16,9 +16,11 @@ A histogram is a graphical representation of the distribution of numerical data.
     1)User can choose the x-axis and y-axis for the scatter plot
     2)User can change colors of different species in scatter plot
     3)User can filter only certain species for the scatter plot
-![image](https://user-images.githubusercontent.com/118159315/228453785-702082b2-d531-4158-884d-2fd8772c0bc7.png)
+![image](https://user-images.githubusercontent.com/118159315/230776864-b1ecc1f6-204a-48aa-b0d0-e0828a6e922a.png)
 
-    4)User can change the point size and shape for different species in the scatter plot
+
+    4)User can change the![Screenshot_scatter]
+ point size and shape for different species in the scatter plot
 ![](https://github.com/PoonamSuthar/Data_Visualization_lab-8/blob/main/GIF_scatter_plot.gif)
 
 
