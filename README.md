@@ -10,6 +10,7 @@ A histogram is a graphical representation of the distribution of numerical data.
     2)User can change colors of each histogram separately.  
 ![image](https://user-images.githubusercontent.com/118159315/235701712-3219f315-0dbc-47aa-a8c9-d9bd6cf797ab.png)
 
+![](https://github.com/PoonamSuthar/Data_Visualization_lab-8/blob/main/Histogram.gif)
 
 2.Scatter plot of data points with each species in different color
 
