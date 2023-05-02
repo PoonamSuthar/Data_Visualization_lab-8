@@ -8,7 +8,7 @@ A histogram is a graphical representation of the distribution of numerical data.
 
     1)User can change the bin size of all the histogram separately. 
     2)User can change colors of each histogram separately.  
-![Screenshot 2023-03-29 111944](https://user-images.githubusercontent.com/118159315/228438624-bd333a73-73fd-494f-b1b7-755c05f9ee5c.png)
+![image](https://user-images.githubusercontent.com/118159315/235701712-3219f315-0dbc-47aa-a8c9-d9bd6cf797ab.png)
 
 
 2.Scatter plot of data points with each species in different color
